@@ -273,6 +273,12 @@ Goal: Shorten the periods of mind wandering and extend the periods of sustained 
 Obstacles: Mind wandering, monkey mind, and impatience.
 Skills: Reinforcing spontaneous introspective awareness.
 
+<img src='http://bits.owocki.com/3f0s2d1b2d1w/Image%202016-03-20%20at%208.23.04%20PM.png' style="max-width: 400px" />
+
+<img src='http://bits.owocki.com/1T1Y012A0r1f/Image%202016-03-20%20at%208.18.16%20PM.png' style="max-width: 400px" />
+
+<img src='http://bits.owocki.com/0H400x0Z0k31/Image%202016-03-20%20at%208.19.35%20PM.png' style="max-width: 400px"/>
+
 
 #### 3. Extended Attention and Overcoming Forgetting
 
@@ -358,15 +364,8 @@ Goal:
 Obstacles: 
 Skills:
 
+## TODO: Annotate these diagrams
 
-
-<img src='http://bits.owocki.com/1T1Y012A0r1f/Image%202016-03-20%20at%208.18.16%20PM.png' style="max-width: 400px" />
-
-<img src='http://bits.owocki.com/3f0s2d1b2d1w/Image%202016-03-20%20at%208.23.04%20PM.png' style="max-width: 400px" />
-
-<img src='http://bits.owocki.com/2G2C3w0q452B/Image%202016-03-20%20at%208.18.38%20PM.png' style="max-width: 400px"/>
-
-<img src='http://bits.owocki.com/0H400x0Z0k31/Image%202016-03-20%20at%208.19.35%20PM.png' style="max-width: 400px"/>
 
 <img src='http://bits.owocki.com/3l1Z3A0k1L2L/Screen%20Shot%202016-03-20%20at%208.21.17%20PM.png' style="max-width: 400px"/>
 
@@ -382,20 +381,9 @@ Skills:
 
 <img src='http://bits.owocki.com/1u3r2z0d2T1V/Image%202016-03-20%20at%208.24.24%20PM.png' style="max-width: 400px"/>
 
-<img src=''/>
-
-<img src=''/>
-
-<img src=''/>
-
-<img src=''/>
-
-
-
-
 
 
 
 <!-- Google Analytics --> 
-<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/adblock-to-bitcoin' style='width:1px; height:1px;' >
+<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/mindhacking' style='width:1px; height:1px;' >
 
