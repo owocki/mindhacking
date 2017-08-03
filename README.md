@@ -381,7 +381,21 @@ Skills:
 
 <img src='http://bits.owocki.com/1u3r2z0d2T1V/Image%202016-03-20%20at%208.24.24%20PM.png' style="max-width: 400px"/>
 
+# August 3 2017 -- Deep Okayness
 
+Every once in a while, you read something that articulates an intuition you've had.    Making the implicit explicit is a great way to advance understanding.
+
+I think that this is a super valuable tool when the direction of the advancement is in something you care deeply about.  As I do <a href="https://owocki.com/practical-mindhacking/">Practical Mindhacking</a>.  It just so happens, that in <a href="http://www.awakin.org/read/view.php?tid=2245">From Being Driven To Being Drawn</a>, published last week, author Richard Rohr articulates the value of a "deep okayness" which fits this criteria.
+
+Excerpt below:
+<blockquote>When I was a young man, I liked ideas and books quite a lot, and I still read a great deal. But each time I come back from a long hermitage retreat, I have no desire to read a book for the next few weeks or even months. For a while I know there is nothing in any book that is going to be better, more truthful, or more solid than what I have just experienced on the cellular, heart, and soul level.
+
+If you asked me what it is I know, I would be hard pressed to tell you. All I know is that there is a deep “okayness” to life—despite all the contradictions—which has become even more evident in the silence. Even when much is terrible, seemingly contradictory, unjust, and inconsistent, somehow sadness and joy are able to coexist at the same time. The negative value of things no longer cancels out the positive, nor does the positive deny the negative.
+
+Whatever your personal calling or your delivery system for the world, it must proceed from a foundational “yes” to life. Your necessary “no” to injustice and all forms of un-love will actually become even clearer and more urgent in the silence, but now your work has a chance of being pure healing instead of impure anger and agenda. You can feel the difference in people who are working for causes; so many works of social justice have been undone by people who do all the fighting from their small or angry selves.
+
+...</blockquote>
+<a href="http://www.awakin.org/read/view.php?tid=2245">Read the rest of the article here.</a>
 
 
 <!-- Google Analytics --> 
